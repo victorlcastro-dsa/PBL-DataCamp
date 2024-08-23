@@ -6,8 +6,8 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 
 ### 📁 Contents
 
-- **Project 1: [Project Name]**  
-  Brief description of the project's objective and key techniques used.
+**Project 1: [Insurance Claims Prediction](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/07fcda7f6797036a5ba51be93d8dbba0469ef752/modeling_car_insurance_claim_outcomes/workspace/notebook.ipynb)**  
+A machine learning project focused on predicting whether a customer will make a claim on their car insurance during the policy period. Key techniques used include data preprocessing, feature engineering, and model selection to optimize accuracy.
 
 - **Project 2: [Project Name]**  
   Brief description of the project's objective and key techniques used.
