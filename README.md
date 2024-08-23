@@ -1,3 +1,4 @@
+
 ---
 
 ## 📊 DataCamp Project-Based Learning Repository
@@ -6,8 +7,8 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 
 ### 📁 Contents
 
-**Project 1: [Insurance Claims Prediction](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/07fcda7f6797036a5ba51be93d8dbba0469ef752/modeling_car_insurance_claim_outcomes/workspace/notebook.ipynb)**  
-A machine learning project focused on predicting whether a customer will make a claim on their car insurance during the policy period. Key techniques used include data preprocessing, feature engineering, and model selection to optimize accuracy.
+- **Project 1: [Insurance Claims Prediction](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/07fcda7f6797036a5ba51be93d8dbba0469ef752/modeling_car_insurance_claim_outcomes/workspace/notebook.ipynb)**  
+  A machine learning project focused on predicting whether a customer will make a claim on their car insurance during the policy period. Key techniques used include data preprocessing, feature engineering, and model selection to optimize accuracy.
 
 - **Project 2: [Project Name]**  
   Brief description of the project's objective and key techniques used.
@@ -53,7 +54,7 @@ Detailed documentation for each project is available in the corresponding Jupyte
 
 Below are some examples of visualizations and results obtained from the projects:
 
-'![Example Plot](link-to-image.png)'
+![Example Plot](link-to-image.png)
 
 ### 🛠️ Tools and Technologies
 
