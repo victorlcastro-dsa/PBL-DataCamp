@@ -13,7 +13,8 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 - **Project 2: [Predictive Modeling for Agriculture](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/d354bf4fffc5bd58cc1b041e934dd6a4ef481dbb/workspaces/predictive_modeling_for_agriculture/workspace/notebook.ipynb)**  
   A machine learning project aimed at assisting farmers in selecting the optimal crop for their field using supervised learning and feature selection techniques. The challenge involves addressing a budget constraint where only one of four critical soil measures can be assessed: Nitrogen, Phosphorous, Potassium, or pH value. The goal is to identify the most influential feature for accurate crop prediction, demonstrating the application of feature selection in a real-world agricultural context.
 
-- **Project 3: [Exploring Airbnb Market Trends]** `Coming Soon`
+- **Project 3: [Exploring Airbnb Market Trends](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/workspaces/exploring_airbnb_market_trends/workspace/notebook.ipynb)**
+  This project conducts a detailed analysis of the short-term rental market in New York City using Airbnb listing data from 2019. By merging information from multiple files, the study explores key aspects such as the earliest and most recent review dates, the number of private room listings, and the average listing price. The primary goal is to provide valuable insights for a real estate startup, with a focus on understanding the market for private rooms, and to consolidate the results into a single DataFrame for easy interpretation and decision-making.
 
 - **Project 4: [Customer Analytics: Preparing Data for Modeling]** `Coming Soon`
 
