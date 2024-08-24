@@ -3,7 +3,7 @@
 
 # 🏙️ NYC Airbnb Market Analysis
 
-This notebook is designed to explore the short-term rental market in New York City by analyzing Airbnb listings. The project aims to provide insights into the market by combining data from various sources, including CSV, TSV, and Excel files.
+This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/651c8808c28cb00ce6c380119377d8ee6f1f523c/workspaces/exploring_airbnb_market_trends/workspace/notebook.ipynb) is designed to explore the short-term rental market in New York City by analyzing Airbnb listings. The project aims to provide insights into the market by combining data from various sources, including CSV, TSV, and Excel files.
 
 ## 📊 Dataset
 
