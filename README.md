@@ -7,16 +7,16 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 
 ### 📁 Contents
 
-- **Project 1: [Insurance Claims Prediction](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/07fcda7f6797036a5ba51be93d8dbba0469ef752/modeling_car_insurance_claim_outcomes/workspace/notebook.ipynb)**  
+- **Project 1: [Insurance Claims Prediction](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/6408395ba6052f313cf3b36b0404e95b2c8632e4/workspaces/modeling_car_insurance_claim_outcomes)**  
   A machine learning project focused on predicting whether a customer will make a claim on their car insurance during the policy period. Key techniques used include data preprocessing, feature engineering, and model selection to optimize accuracy.
 
-- **Project 2: [Predictive Modeling for Agriculture](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/d354bf4fffc5bd58cc1b041e934dd6a4ef481dbb/workspaces/predictive_modeling_for_agriculture/workspace/notebook.ipynb)**  
+- **Project 2: [Predictive Modeling for Agriculture](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/6408395ba6052f313cf3b36b0404e95b2c8632e4/workspaces/predictive_modeling_for_agriculture)**  
   A machine learning project aimed at assisting farmers in selecting the optimal crop for their field using supervised learning and feature selection techniques. The challenge involves addressing a budget constraint where only one of four critical soil measures can be assessed: Nitrogen, Phosphorous, Potassium, or pH value. The goal is to identify the most influential feature for accurate crop prediction, demonstrating the application of feature selection in a real-world agricultural context.
 
-- **Project 3: [Exploring Airbnb Market Trends](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/workspaces/exploring_airbnb_market_trends/workspace/notebook.ipynb)**
+- **Project 3: [Exploring Airbnb Market Trends](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/91fe8c20bdb9581cc1f4833fb0318a3199d1f83d/workspaces/exploring_airbnb_market_trends)**
   This project conducts a detailed analysis of the short-term rental market in New York City using Airbnb listing data from 2019. By merging information from multiple files, the study explores key aspects such as the earliest and most recent review dates, the number of private room listings, and the average listing price. The primary goal is to provide valuable insights for a real estate startup, with a focus on understanding the market for private rooms, and to consolidate the results into a single DataFrame for easy interpretation and decision-making.
 
-- **Project 4: [Customer Analytics: Preparing Data for Modeling](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/workspaces/customer_analytics_preparing_data_for_modeling/workspace/notebook.ipynb)**
+- **Project 4: [Customer Analytics: Preparing Data for Modeling](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/fcf54d5ab02f20b8fb3329928d2698f526b7f143/workspaces/customer_analytics_preparing_data_for_modeling)**
   This project focuses on optimizing a large customer dataset for *Training Data Ltd.*, with the aim of enhancing the efficiency of predictive modeling. The dataset contains detailed information about students, including their demographics, education, and work experience, which will be used to predict whether they are seeking new job opportunities. By applying various data transformation techniques—such as converting categorical data to more memory-efficient types and filtering the dataset for relevant entries—the project significantly reduces memory usage, enabling faster and more efficient model training and predictions.
 
 - **Project 5: [Visualizing the History of Nobel Prize Winners]** `Coming Soon`
