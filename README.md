@@ -10,8 +10,8 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 - **Project 1: [Insurance Claims Prediction](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/07fcda7f6797036a5ba51be93d8dbba0469ef752/modeling_car_insurance_claim_outcomes/workspace/notebook.ipynb)**  
   A machine learning project focused on predicting whether a customer will make a claim on their car insurance during the policy period. Key techniques used include data preprocessing, feature engineering, and model selection to optimize accuracy.
 
-- **Project 2: [Project Name]**  
-  Brief description of the project's objective and key techniques used.
+- **Project 2: [Predictive Modeling for Agriculture](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/d354bf4fffc5bd58cc1b041e934dd6a4ef481dbb/workspaces/predictive_modeling_for_agriculture/workspace/notebook.ipynb)**  
+  A machine learning project aimed at assisting farmers in selecting the optimal crop for their field using supervised learning and feature selection techniques. The challenge involves addressing a budget constraint where only one of four critical soil measures can be assessed: Nitrogen, Phosphorous, Potassium, or pH value. The goal is to identify the most influential feature for accurate crop prediction, demonstrating the application of feature selection in a real-world agricultural context.
 
 - **Project 3: [Project Name]**  
   Brief description of the project's objective and key techniques used.

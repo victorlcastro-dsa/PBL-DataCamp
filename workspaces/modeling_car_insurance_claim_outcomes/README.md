@@ -3,7 +3,7 @@
 
 # 🛡️ Insurance Claims Prediction
 
-This notebook is designed to assist insurance companies in predicting whether a customer will make a claim on their car insurance during the policy period. The goal is to identify the single most important feature that results in the best model accuracy.
+This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/d354bf4fffc5bd58cc1b041e934dd6a4ef481dbb/workspaces/modeling_car_insurance_claim_outcomes/workspace/notebook.ipynb) is designed to assist insurance companies in predicting whether a customer will make a claim on their car insurance during the policy period. The goal is to identify the single most important feature that results in the best model accuracy.
 
 ## 📊 Dataset
 
