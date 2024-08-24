@@ -13,10 +13,34 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 - **Project 2: [Predictive Modeling for Agriculture](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/d354bf4fffc5bd58cc1b041e934dd6a4ef481dbb/workspaces/predictive_modeling_for_agriculture/workspace/notebook.ipynb)**  
   A machine learning project aimed at assisting farmers in selecting the optimal crop for their field using supervised learning and feature selection techniques. The challenge involves addressing a budget constraint where only one of four critical soil measures can be assessed: Nitrogen, Phosphorous, Potassium, or pH value. The goal is to identify the most influential feature for accurate crop prediction, demonstrating the application of feature selection in a real-world agricultural context.
 
-- **Project 3: [Project Name]**  
+- **Project 3: [Exploring Airbnb Market Trends]** `Coming Soon`  
   Brief description of the project's objective and key techniques used.
 
-- *(Add more projects as needed)*
+- **Project 4: [Customer Analytics: Preparing Data for Modeling]** `Coming Soon` 
+  Brief description of the project's objective and key techniques used.
+
+- **Project 5: [Visualizing the History of Nobel Prize Winners]** `Coming Soon` 
+  Brief description of the project's objective and key techniques used.
+
+- **Project 6: [Analyzing Crime in Los Angeles]** `Coming Soon` 
+  Brief description of the project's objective and key techniques used.
+
+- **Project 7: [Exploring NYC Public School Test Result Scores]** `Coming Soon` 
+  Brief description of the project's objective and key techniques used.
+
+- **Project 8: [Investigating Netflix Movies]** `Coming Soon` 
+  Brief description of the project's objective and key techniques used.
+
+- **Project 9: [Mobile Games A/B Testing with Cookie Cats]** `Coming Soon` 
+  Brief description of the project's objective and key techniques used.
+
+- **Project 10: [The Android App Market on Google Play]** `Coming Soon` 
+  Brief description of the project's objective and key techniques used.
+
+- **Project 11: [What and Where are the World's Oldest Businesses]** `Coming Soon` 
+  Brief description of the project's objective and key techniques used.
+
+- **More Projects** `Coming Soon`
 
 ### ✨ Highlights
 
@@ -54,7 +78,7 @@ Detailed documentation for each project is available in the corresponding Jupyte
 
 Below are some examples of visualizations and results obtained from the projects:
 
-![Example Plot](link-to-image.png)
+![Example Plot](link-to-image.png) `Coming Soon`
 
 ### 🛠️ Tools and Technologies
 
