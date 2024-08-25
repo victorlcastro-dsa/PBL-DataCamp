@@ -32,7 +32,7 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
   This project analyzes a century's worth of Nobel Prize data to uncover trends and insights into the distribution of awards across different demographics and categories. By exploring the dataset, the project identifies key patterns, such as the most common gender and birth country among Laureates, the prominence of US-born winners across decades, and the representation of female Laureates. Through data manipulation and visualization, it sheds light on potential biases and notable achievements in the history of the Nobel Prize. 
 
 
-- **Project 6: [Analyzing Crime in Los Angeles](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/32aec2a6d826488f40c7c8f896ee55702e5ab45f/workspaces/analyzing_crime_in_los_angeles)**
+- **Project 6: [Analyzing Crime in Los Angeles](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/aa914b08d655f68f47294759bbec4f28566e0538/workspaces/analyzing_crime_in_los_angeles)**
 
   This project analyzes crime data in Los Angeles to help the LAPD allocate resources more effectively. By examining over a century of crime records, the project identifies patterns in criminal activity, such as peak hours for crimes and areas with high frequencies of night crimes. The analysis also explores the demographics of crime victims, providing insights into age group vulnerabilities. These findings will support strategic decision-making to enhance public safety in Los Angeles.
   
