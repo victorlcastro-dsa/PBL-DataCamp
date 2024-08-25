@@ -22,7 +22,7 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
   This project conducts a detailed analysis of the short-term rental market in New York City using Airbnb listing data from 2019. By merging information from multiple files, the study explores key aspects such as the earliest and most recent review dates, the number of private room listings, and the average listing price. The primary goal is to provide valuable insights for a real estate startup, with a focus on understanding the market for private rooms, and to consolidate the results into a single DataFrame for easy interpretation and decision-making.
 
 
-- **Project 4: [Customer Analytics: Preparing Data for Modeling](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/fcf54d5ab02f20b8fb3329928d2698f526b7f143/workspaces/customer_analytics_preparing_data_for_modeling)**
+- **Project 4: [Customer Analytics: Preparing Data for Modeling](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/1c5babee07c560650fd301b30bfd2014eb8ba355/workspaces/customer_analytics_preparing_data_for_modeling)**
 
   This project focuses on optimizing a large customer dataset for *Training Data Ltd.*, with the aim of enhancing the efficiency of predictive modeling. The dataset contains detailed information about students, including their demographics, education, and work experience, which will be used to predict whether they are seeking new job opportunities. By applying various data transformation techniques—such as converting categorical data to more memory-efficient types and filtering the dataset for relevant entries—the project significantly reduces memory usage, enabling faster and more efficient model training and predictions.
 
