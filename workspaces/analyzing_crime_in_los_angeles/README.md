@@ -3,7 +3,7 @@
 
 # 🚔 Analyzing Crime in Los Angeles
 
-This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/workspaces/analyzing_crime_in_los_angeles/workspace/notebook.ipynb) supports the Los Angeles Police Department (LAPD) by analyzing crime data to identify patterns in criminal behavior. The goal is to provide insights that can help the LAPD allocate resources more effectively to protect the citizens of Los Angeles.
+This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/analyzing_crime_in_los_angeles/workspace/notebook.ipynb) supports the Los Angeles Police Department (LAPD) by analyzing crime data to identify patterns in criminal behavior. The goal is to provide insights that can help the LAPD allocate resources more effectively to protect the citizens of Los Angeles.
 
 ## 📊 Dataset
 

@@ -3,7 +3,7 @@
 
 # 🌾 Predictive Modeling for Agriculture
 
-This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/d354bf4fffc5bd58cc1b041e934dd6a4ef481dbb/workspaces/predictive_modeling_for_agriculture/workspace/notebook.ipynb) is designed to assist farmers in selecting the best crop for their fields using supervised machine learning and feature selection techniques. The goal is to identify the single most important soil measure that can accurately predict the best crop to cultivate.
+This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/workspaces/predictive_modeling_for_agriculture/workspace/notebook.ipynb) is designed to assist farmers in selecting the best crop for their fields using supervised machine learning and feature selection techniques. The goal is to identify the single most important soil measure that can accurately predict the best crop to cultivate.
 
 ## 📊 Dataset
 
