@@ -19,7 +19,8 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 - **Project 4: [Customer Analytics: Preparing Data for Modeling](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/fcf54d5ab02f20b8fb3329928d2698f526b7f143/workspaces/customer_analytics_preparing_data_for_modeling)**
   This project focuses on optimizing a large customer dataset for *Training Data Ltd.*, with the aim of enhancing the efficiency of predictive modeling. The dataset contains detailed information about students, including their demographics, education, and work experience, which will be used to predict whether they are seeking new job opportunities. By applying various data transformation techniques—such as converting categorical data to more memory-efficient types and filtering the dataset for relevant entries—the project significantly reduces memory usage, enabling faster and more efficient model training and predictions.
 
-- **Project 5: [Visualizing the History of Nobel Prize Winners]** `Coming Soon`
+- **Project 5: [Visualizing the History of Nobel Prize Winners](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/workspaces/visualizing_the_history_of_nobel_prize_winners)**
+  This project analyzes a century's worth of Nobel Prize data to uncover trends and insights into the distribution of awards across different demographics and categories. By exploring the dataset, the project identifies key patterns, such as the most common gender and birth country among Laureates, the prominence of US-born winners across decades, and the representation of female Laureates. Through data manipulation and visualization, it sheds light on potential biases and notable achievements in the history of the Nobel Prize. 
 
 - **Project 6: [Analyzing Crime in Los Angeles]** `Coming Soon`
 
