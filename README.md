@@ -7,32 +7,32 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 
 ### 📁 Contents
 
-- **Project 1: [Insurance Claims Prediction](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/modeling_car_insurance_claim_outcomes)**
+- **Project 1: [Insurance Claims Prediction](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/32aec2a6d826488f40c7c8f896ee55702e5ab45f/workspaces/modeling_car_insurance_claim_outcomes)**
 
   A machine learning project focused on predicting whether a customer will make a claim on their car insurance during the policy period. Key techniques used include data preprocessing, feature engineering, and model selection to optimize accuracy.
 
 
-- **Project 2: [Predictive Modeling for Agriculture](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/workspaces/predictive_modeling_for_agriculture)**
+- **Project 2: [Predictive Modeling for Agriculture](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/32aec2a6d826488f40c7c8f896ee55702e5ab45f/workspaces/predictive_modeling_for_agriculture)**
 
   A machine learning project aimed at assisting farmers in selecting the optimal crop for their field using supervised learning and feature selection techniques. The challenge involves addressing a budget constraint where only one of four critical soil measures can be assessed: Nitrogen, Phosphorous, Potassium, or pH value. The goal is to identify the most influential feature for accurate crop prediction, demonstrating the application of feature selection in a real-world agricultural context.
 
 
-- **Project 3: [Exploring Airbnb Market Trends](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/exploring_airbnb_market_trends)**
+- **Project 3: [Exploring Airbnb Market Trends](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/32aec2a6d826488f40c7c8f896ee55702e5ab45f/workspaces/exploring_airbnb_market_trends)**
 
   This project conducts a detailed analysis of the short-term rental market in New York City using Airbnb listing data from 2019. By merging information from multiple files, the study explores key aspects such as the earliest and most recent review dates, the number of private room listings, and the average listing price. The primary goal is to provide valuable insights for a real estate startup, with a focus on understanding the market for private rooms, and to consolidate the results into a single DataFrame for easy interpretation and decision-making.
 
 
-- **Project 4: [Customer Analytics: Preparing Data for Modeling](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/workspaces/customer_analytics_preparing_data_for_modeling)**
+- **Project 4: [Customer Analytics: Preparing Data for Modeling](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/32aec2a6d826488f40c7c8f896ee55702e5ab45f/workspaces/customer_analytics_preparing_data_for_modeling)**
 
   This project focuses on optimizing a large customer dataset for *Training Data Ltd.*, with the aim of enhancing the efficiency of predictive modeling. The dataset contains detailed information about students, including their demographics, education, and work experience, which will be used to predict whether they are seeking new job opportunities. By applying various data transformation techniques—such as converting categorical data to more memory-efficient types and filtering the dataset for relevant entries—the project significantly reduces memory usage, enabling faster and more efficient model training and predictions.
 
 
-- **Project 5: [Visualizing the History of Nobel Prize Winners](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/workspaces/visualizing_the_history_of_nobel_prize_winners)**
+- **Project 5: [Visualizing the History of Nobel Prize Winners](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/f25ec70277b35bc9bbc39ad86d9f99d9fb6ea333/workspaces/visualizing_the_history_of_nobel_prize_winners)**
 
   This project analyzes a century's worth of Nobel Prize data to uncover trends and insights into the distribution of awards across different demographics and categories. By exploring the dataset, the project identifies key patterns, such as the most common gender and birth country among Laureates, the prominence of US-born winners across decades, and the representation of female Laureates. Through data manipulation and visualization, it sheds light on potential biases and notable achievements in the history of the Nobel Prize. 
 
 
-- **Project 6: [Analyzing Crime in Los Angeles](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/workspaces/analyzing_crime_in_los_angeles)**
+- **Project 6: [Analyzing Crime in Los Angeles](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/32aec2a6d826488f40c7c8f896ee55702e5ab45f/workspaces/analyzing_crime_in_los_angeles)**
 
   This project analyzes crime data in Los Angeles to help the LAPD allocate resources more effectively. By examining over a century of crime records, the project identifies patterns in criminal activity, such as peak hours for crimes and areas with high frequencies of night crimes. The analysis also explores the demographics of crime victims, providing insights into age group vulnerabilities. These findings will support strategic decision-making to enhance public safety in Los Angeles.
   

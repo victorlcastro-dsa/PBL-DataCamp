@@ -3,7 +3,7 @@
 
 # 📊 Customer Analytics: Preparing Data for Modeling
 
-This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/customer_analytics_preparing_data_for_modeling/workspace/notebook.ipynb) was created to assist *Training Data Ltd.* in optimizing the storage of a large customer dataset, which will be used to predict whether students are looking for a new job. The goal is to apply optimization techniques to ensure that the machine learning model can process the data more efficiently, reducing the time required to generate predictions.
+This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/3088ae3e5a1d3a68a0d82164620f72b47275f235/workspaces/customer_analytics_preparing_data_for_modeling/workspace/notebook.ipynb) was created to assist *Training Data Ltd.* in optimizing the storage of a large customer dataset, which will be used to predict whether students are looking for a new job. The goal is to apply optimization techniques to ensure that the machine learning model can process the data more efficiently, reducing the time required to generate predictions.
 
 ## 📊 Dataset
 

@@ -3,7 +3,7 @@
 
 # 🏅 Visualizing the History of Nobel Prize Winners
 
-This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/main/workspaces/visualizing_the_history_of_nobel_prize_winners/workspace/notebook.ipynb) explores a dataset containing over a century of Nobel Laureates, analyzing trends, biases, and notable facts about the prestigious Nobel Prize. The project uses data manipulation and visualization techniques to uncover insights into the distribution of awards across different demographics, categories, and time periods.
+This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/f25ec70277b35bc9bbc39ad86d9f99d9fb6ea333/workspaces/visualizing_the_history_of_nobel_prize_winners/workspace/notebook.ipynb) explores a dataset containing over a century of Nobel Laureates, analyzing trends, biases, and notable facts about the prestigious Nobel Prize. The project uses data manipulation and visualization techniques to uncover insights into the distribution of awards across different demographics, categories, and time periods.
 
 ## 📊 Dataset
 
