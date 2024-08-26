@@ -3,7 +3,7 @@
 
 # 🐱 Mobile Games A/B Testing with Cookie Cats
 
-This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/9a2135f1b6863fe1bd0a0ed8800dca51d7aa2765/workspaces/mobile_games_a_b_testing_with_cookie_cats/workspace/notebook.ipynb) examines an A/B test conducted in the popular mobile puzzle game, *Cookie Cats*. The goal of the analysis is to understand the impact of moving a gameplay gate from level 30 to level 40 on player retention.
+This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/a5b74fece1cc1bde84a7cde90bb8010a479b01ac/workspaces/mobile_games_a_b_testing_with_cookie_cats/workspace/notebook.ipynb) examines an A/B test conducted in the popular mobile puzzle game, *Cookie Cats*. The goal of the analysis is to understand the impact of moving a gameplay gate from level 30 to level 40 on player retention.
 
 ## 🎮 Project Description
 
