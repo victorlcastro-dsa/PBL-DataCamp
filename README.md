@@ -37,7 +37,7 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
   This project analyzes crime data in Los Angeles to help the LAPD allocate resources more effectively. By examining over a century of crime records, the project identifies patterns in criminal activity, such as peak hours for crimes and areas with high frequencies of night crimes. The analysis also explores the demographics of crime victims, providing insights into age group vulnerabilities. These findings will support strategic decision-making to enhance public safety in Los Angeles.
   
 
-- **Project 7: [Exploring NYC Public School Test Result Scores](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/7aa350d55d772c2f7199537f3f78b7c32bb639f7/workspaces/exploring_nyc_public_school_test_result_scores)**
+- **Project 7: [Exploring NYC Public School Test Result Scores](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/c89093f5b7a851aef52ce429bcfe1f9eead0faba/workspaces/exploring_nyc_public_school_test_result_scores)**
 
   This project analyzes the SAT performance of New York City's public schools, focusing on identifying schools with the highest math scores, examining score variations across different boroughs, and ranking the top ten schools based on their combined SAT scores. The insights derived from this analysis are valuable for educators, policymakers, and parents in making informed decisions about school performance and educational quality in NYC.
 
