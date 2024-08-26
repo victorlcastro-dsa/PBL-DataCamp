@@ -55,7 +55,9 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 
 
 - **Project 11: [What and Where are the World's Oldest Businesses](workspaces/what_and_where_are_the_worlds_oldest_businesses)** `Coming Soon`
+
   This project explores the world's oldest businesses, analyzing data from various industries and regions to understand how these companies have managed to survive for centuries. The analysis reveals that certain industries, such as banking and finance, have a higher representation among the oldest businesses, while regions like Europe and Asia host many of these ancient companies. The insights gained from this study can inform strategies for long-term business success and sustainability.
+
 
 - **More Projects** `Coming Soon`
 
