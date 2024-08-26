@@ -19,10 +19,11 @@ The dataset used in this analysis is provided as `car_insurance.csv` and contain
 | `income`           | 💰 Client's income level                                                                               |
 | `credit_score`     | 💳 Client's credit score (between 0 and 1)                                                             |
 | `vehicle_ownership` | 🚙 Whether the client owns a vehicle (`0`: No, `1`: Yes)                                              |
-| `marital_status`   | 💍 Client's marital status                                                                             |
-| `vehicle_type`     | 🚘 Type of vehicle owned (`0`: Utility, `1`: Luxury)                                                   |
+| `married`          | 💍 Client's marital status                                                                             |
+| `vehicle_type`     | 🚘 Type of vehicle owned (`0`: Sedan, `1`: Sports car)                                                 |
 | `annual_mileage`   | 📏 Estimated annual mileage driven by the client                                                       |
-| `policy_claim`     | 📋 Target variable: whether the client made a claim during the policy period (`0`: No, `1`: Yes)       |
+
+**And more!**
 
 ## 🎯 Objective
 
@@ -36,7 +37,7 @@ The best-performing feature identified in this analysis is `driving_experience`,
 
 1. **Dataset Preparation**: Load the `car_insurance.csv` dataset.
 2. **Data Exploration**: Explore and preprocess the data.
-3. **Model Development**: Train and evaluate a machine learning model to predict the target variable `policy_claim`.
+3. **Model Development**: Train and evaluate a machine learning model to predict the target variable.
 4. **Feature Importance**: Identify and evaluate the impact of each feature on model performance.
 
 ## 📦 Dependencies
@@ -45,8 +46,7 @@ This notebook requires the following libraries:
 
 - 🐼 pandas
 - 🧮 numpy
-- 📈 scikit-learn
-- 🎨 matplotlib
+- 📈 statsmodels
 
 ## 🚀 Usage
 
