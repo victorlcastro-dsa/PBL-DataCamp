@@ -42,7 +42,9 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
   This project analyzes the SAT performance of New York City's public schools, focusing on identifying schools with the highest math scores, examining score variations across different boroughs, and ranking the top ten schools based on their combined SAT scores. The insights derived from this analysis are valuable for educators, policymakers, and parents in making informed decisions about school performance and educational quality in NYC.
 
 
-- **Project 8: [Investigating Netflix Movies](workspaces/investigating_netflix_movies)** `Coming Soon`
+- **Project 8: [Investigating Netflix Movies](workspaces/investigating_netflix_movies)**
+
+  This project analyzes Netflix movie data to explore trends and patterns in film production over a specific decade. By utilizing Python data manipulation and visualization techniques, the goal is to identify common features among popular films, such as frequently watched genres, typical durations, and factors influencing viewer ratings. These analyses provide valuable insights for film production and market understanding on the platform.
 
 
 - **Project 9: [Mobile Games A/B Testing with Cookie Cats](workspaces/mobile_games_a_b_testing_with_cookie_cats)**
