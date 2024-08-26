@@ -29,7 +29,7 @@ The best-performing feature identified in this analysis is `'K'`, with an accura
 
 1. **Dataset Preparation**: Load the provided dataset into the notebook.
 2. **Data Exploration**: Perform exploratory data analysis (EDA) to understand the distribution and relationships among soil measures.
-3. **Model Development**: Train and evaluate a machine learning model to predict the target variable `Crop`.
+3. **Model Development**: Train and evaluate a machine learning model to predict the target variable.
 4. **Feature Importance**: Identify and evaluate the impact of each soil measure on model performance.
 
 ## 📦 Dependencies
@@ -37,10 +37,7 @@ The best-performing feature identified in this analysis is `'K'`, with an accura
 This notebook requires the following libraries:
 
 - 🐼 pandas
-- 🧮 numpy
 - 📈 scikit-learn
-- 🎨 matplotlib
-- 🧪 seaborn
 
 ## 🚀 Usage
 
