@@ -40,7 +40,7 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 - **Project 7: [Exploring NYC Public School Test Result Scores]** `Coming Soon`
   This project analyzes the SAT performance of New York City's public schools, focusing on identifying schools with the highest math scores, examining score variations across different boroughs, and ranking the top ten schools based on their combined SAT scores. The insights derived from this analysis are valuable for educators, policymakers, and parents in making informed decisions about school performance and educational quality in NYC.`
 
-- **Project 8: [Investigating Netflix Movies]** `Coming Soon`
+- **Project 8: [Investigating Netflix Movies](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/1122096bc8ba1d06f1045d28a8f099d5c2bea301/workspaces/investigating_netflix_movies)** `Coming Soon`
 
 - **Project 9: [Mobile Games A/B Testing with Cookie Cats]** `Coming Soon`
 
