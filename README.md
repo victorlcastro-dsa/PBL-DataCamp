@@ -61,6 +61,11 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
   This project explores the world's oldest businesses, analyzing data from various industries and regions to understand how these companies have managed to survive for centuries. The analysis reveals that certain industries, such as banking and finance, have a higher representation among the oldest businesses, while regions like Europe and Asia host many of these ancient companies. The insights gained from this study can inform strategies for long-term business success and sustainability.
 
 
+- **Project 12: [Creating Functions to Register App Users](workspaces/creating_functions_to_register_app_users)**
+
+  This project involves developing and integrating Python validation functions into a mobile app's registration system. By catching errors in user inputs, the functions aim to improve the robustness of the sign-up process, ensuring a better onboarding experience for app users. The notebook provides a step-by-step guide to defining, testing, and deploying these functions within the app.
+
+
 - **More Projects** `Coming Soon`
 
 ### ✨ Highlights
