@@ -54,7 +54,7 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
   This project analyzes the Android app market by examining over ten thousand apps on the Google Play Store. The analysis includes a comparison between free and paid apps, focusing on user sentiment, number of installs, and other metrics that influence app success. Through sentiment analysis of user reviews, the project reveals that free apps often receive more negative feedback than paid apps, which tend to be of higher quality. The insights gained from this analysis can guide strategies for app development and marketing, helping developers make informed decisions to enhance app performance and user satisfaction.
 
 
-- **Project 11: [What and Where are the World's Oldest Businesses](workspaces/what_and_where_are_the_worlds_oldest_businesses)** `Coming Soon`
+- **Project 11: [What and Where are the World's Oldest Businesses](workspaces/what_and_where_are_the_worlds_oldest_businesses)**
 
   This project explores the world's oldest businesses, analyzing data from various industries and regions to understand how these companies have managed to survive for centuries. The analysis reveals that certain industries, such as banking and finance, have a higher representation among the oldest businesses, while regions like Europe and Asia host many of these ancient companies. The insights gained from this study can inform strategies for long-term business success and sustainability.
 
