@@ -45,9 +45,6 @@ The primary objectives are:
 This notebook requires the following libraries:
 
 - 🐼 pandas
-- 📊 seaborn
-- 🎨 matplotlib
-- 🔢 numpy
 
 ## 🚀 Usage
 
