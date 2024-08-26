@@ -45,7 +45,7 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 - **Project 8: [Investigating Netflix Movies](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/1122096bc8ba1d06f1045d28a8f099d5c2bea301/workspaces/investigating_netflix_movies)** `Coming Soon`
 
 
-- **Project 9: [Mobile Games A/B Testing with Cookie Cats](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/9e14c01298bfb44aaec8012f8982fc9acec011c2/workspaces/mobile_games_a_b_testing_with_cookie_cats)**
+- **Project 9: [Mobile Games A/B Testing with Cookie Cats](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/835c3fe09d3c77c521c80f1b7c94c12d97a15f40/workspaces/mobile_games_a_b_testing_with_cookie_cats)**
 
   This project analyzes an A/B test in the mobile game *Cookie Cats* to evaluate the impact of moving a gameplay gate from level 30 to level 40 on player retention. By examining 1-day and 7-day retention rates, the analysis reveals that keeping the gate at level 30 results in higher retention. The findings suggest that an earlier gate encourages players to take breaks, prolonging their enjoyment of the game and improving retention, which is critical for maintaining an active player base.
 
