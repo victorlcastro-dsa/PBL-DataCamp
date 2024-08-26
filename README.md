@@ -45,11 +45,11 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 - **Project 8: [Investigating Netflix Movies](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/1122096bc8ba1d06f1045d28a8f099d5c2bea301/workspaces/investigating_netflix_movies)** `Coming Soon`
 
 
-- **Project 9: [Mobile Games A/B Testing with Cookie Cats](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/5070174763fc71164d4e65acd22ed9c6da44fb14/workspaces/mobile_games_a_b_testing_with_cookie_cats)**
+- **Project 9: [Mobile Games A/B Testing with Cookie Cats](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/9e14c01298bfb44aaec8012f8982fc9acec011c2/workspaces/mobile_games_a_b_testing_with_cookie_cats)**
 
   This project analyzes an A/B test in the mobile game *Cookie Cats* to evaluate the impact of moving a gameplay gate from level 30 to level 40 on player retention. By examining 1-day and 7-day retention rates, the analysis reveals that keeping the gate at level 30 results in higher retention. The findings suggest that an earlier gate encourages players to take breaks, prolonging their enjoyment of the game and improving retention, which is critical for maintaining an active player base.
 
-- **Project 10: [The Android App Market on Google Play](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/803296b435a64a84d2c75c72fc22e7a438d242c9/workspaces/the_android_app_market_on_google_play)**
+- **Project 10: [The Android App Market on Google Play](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/b4ac28000248b8f7787a3846a5acbe1efabfcdba/workspaces/the_android_app_market_on_google_play)**
 
   This project analyzes the Android app market by examining over ten thousand apps on the Google Play Store. The analysis includes a comparison between free and paid apps, focusing on user sentiment, number of installs, and other metrics that influence app success. Through sentiment analysis of user reviews, the project reveals that free apps often receive more negative feedback than paid apps, which tend to be of higher quality. The insights gained from this analysis can guide strategies for app development and marketing, helping developers make informed decisions to enhance app performance and user satisfaction.
 
