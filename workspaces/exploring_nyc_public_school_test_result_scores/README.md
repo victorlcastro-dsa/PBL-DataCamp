@@ -3,7 +3,7 @@
 
 # 🏫 Exploring NYC Public School Test Result Scores
 
-This [notebook] is designed to explore the standardized test performance across New York City's public schools. The project aims to provide insights into the SAT scores by examining math results, analyzing performance by borough, and identifying the top ten performing schools in the city.
+This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/7aa350d55d772c2f7199537f3f78b7c32bb639f7/workspaces/exploring_nyc_public_school_test_result_scores/workspace/notebook.ipynb) is designed to explore the standardized test performance across New York City's public schools. The project aims to provide insights into the SAT scores by examining math results, analyzing performance by borough, and identifying the top ten performing schools in the city.
 
 ## 📊 Dataset
 
@@ -48,14 +48,13 @@ The objective is to analyze the SAT performance of NYC public schools and provid
 This notebook requires the following Python libraries:
 
 - 🐼 pandas
-- 📊 matplotlib (for visualizations, if applicable)
 
 ## 🚀 Usage
 
 To use this notebook:
 
 1. **Clone the repository** containing the notebook and dataset.
-2. **Install the necessary dependencies** using `pip install pandas matplotlib`.
+2. **Install the necessary dependencies** using `pip install -r requirements.txt`.
 3. **Run the notebook** in Jupyter or any other compatible environment to perform the analysis.
 
 ---
