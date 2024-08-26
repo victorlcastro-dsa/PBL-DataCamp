@@ -3,7 +3,7 @@
 
 # 🏫 Exploring NYC Public School Test Result Scores
 
-This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/7aa350d55d772c2f7199537f3f78b7c32bb639f7/workspaces/exploring_nyc_public_school_test_result_scores/workspace/notebook.ipynb) is designed to explore the standardized test performance across New York City's public schools. The project aims to provide insights into the SAT scores by examining math results, analyzing performance by borough, and identifying the top ten performing schools in the city.
+This [notebook](workspace/notebook.ipynb) is designed to explore the standardized test performance across New York City's public schools. The project aims to provide insights into the SAT scores by examining math results, analyzing performance by borough, and identifying the top ten performing schools in the city.
 
 ## 📊 Dataset
 

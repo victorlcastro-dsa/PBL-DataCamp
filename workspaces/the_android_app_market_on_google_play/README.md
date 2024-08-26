@@ -3,7 +3,7 @@
 
 # 📱 Google Play Store Apps and Reviews Analysis
 
-This [notebook](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/803296b435a64a84d2c75c72fc22e7a438d242c9/workspaces/the_android_app_market_on_google_play/workspace/notebook.ipynb) provides a comprehensive analysis of over ten thousand apps on the Google Play Store. By examining app details and user reviews, the analysis aims to uncover trends and insights that can guide strategies for app development, growth, and retention.
+This [notebook](workspace/notebook.ipynb) provides a comprehensive analysis of over ten thousand apps on the Google Play Store. By examining app details and user reviews, the analysis aims to uncover trends and insights that can guide strategies for app development, growth, and retention.
 
 ## 📊 Project Description
 
