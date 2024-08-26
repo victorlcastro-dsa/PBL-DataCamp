@@ -45,7 +45,8 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 - **Project 9: [Mobile Games A/B Testing with Cookie Cats](https://github.com/victorlcastro-dsa/PBL_DataCamp/blob/4133664f5fdf851049661749d3e46c01d358641f/workspaces/mobile_games_a_b_testing_with_cookie_cats)**
   This project analyzes an A/B test in the mobile game *Cookie Cats* to evaluate the impact of moving a gameplay gate from level 30 to level 40 on player retention. By examining 1-day and 7-day retention rates, the analysis reveals that keeping the gate at level 30 results in higher retention. The findings suggest that an earlier gate encourages players to take breaks, prolonging their enjoyment of the game and improving retention, which is critical for maintaining an active player base.
 
-- **Project 10: [The Android App Market on Google Play]** `Coming Soon`
+- **Project 10: [The Android App Market on Google Play]**
+  This project analyzes the Android app market by examining over ten thousand apps on the Google Play Store. The analysis includes a comparison between free and paid apps, focusing on user sentiment, number of installs, and other metrics that influence app success. Through sentiment analysis of user reviews, the project reveals that free apps often receive more negative feedback than paid apps, which tend to be of higher quality. The insights gained from this analysis can guide strategies for app development and marketing, helping developers make informed decisions to enhance app performance and user satisfaction.
 
 - **Project 11: [What and Where are the World's Oldest Businesses]** `Coming Soon`
 
@@ -97,6 +98,7 @@ Below are some examples of visualizations and results obtained from the projects
 - **Scikit-Learn** 🤖
 - **Matplotlib** 📉
 - **Jupyter Notebook** 📓
+- **And More**
 
 ### 🤝 Contributing
 
