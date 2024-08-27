@@ -66,6 +66,11 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
   This project involves developing and integrating Python validation functions into a mobile app's registration system. By catching errors in user inputs, the functions aim to improve the robustness of the sign-up process, ensuring a better onboarding experience for app users. The notebook provides a step-by-step guide to defining, testing, and deploying these functions within the app.
 
 
+- **Project 13: [Interstellar Delivery: Mastering Datetime in Python](workspaces/interstellar_delivery_mastering_datetime_in_python)**
+
+  The project was developed to create reusable functions that assist in managing a fictional space logistics startup. Utilizing Python’s `datetime` module, the project focuses on crucial tasks such as timestamp formatting, rocket landing time estimation, and days-until-delivery calculations. These basic functions are essential for managing schedules and deadlines in an intergalactic scenario, offering a practical and educational application for handling dates and times in Python.
+
+
 - **More Projects** `Coming Soon`
 
 ### ✨ Highlights
