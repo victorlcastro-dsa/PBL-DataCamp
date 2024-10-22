@@ -74,6 +74,9 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 
   This project focuses on building a machine learning pipeline to predict the mean temperature in London, England. By experimenting with various regression models and utilizing `sklearn` and `mlflow`, the project aims to identify the best approach for predicting weather patterns. The analysis involves exploring the `london_weather.csv` dataset and evaluating different weather factors to enhance prediction accuracy. Additionally, the use of `mlflow` enables tracking and optimization of model performance throughout the project.
 
+- **Project 15: [Hypothesis Testing With Men's and Women's Soccer Matches](workspaces/hypothesis_testing_with_men's_and_women's_soccer_matches)**
+
+  This project compares the performance of men's and women's soccer teams to test the null hypothesis that there is no difference in their performance. The analysis uses a dataset of World Cup matches to explore the distributions of goals scored, shots on goal, and possession percentage. The project applies hypothesis testing to evaluate the differences between male and female teams and provides insights into the results. The study's findings can be used to improve strategies for both men's and women's teams, as well as highlight areas of improvement for teams in both categories.
 
 - **More Projects** `Coming Soon`
 
