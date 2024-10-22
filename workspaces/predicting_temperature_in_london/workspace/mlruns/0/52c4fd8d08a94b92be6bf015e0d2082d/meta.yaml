@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/victo/OneDrive/Documents/GitHub/PBL-DataCamp/workspaces/predicting_temperature_in_london/workspace/mlruns/0/52c4fd8d08a94b92be6bf015e0d2082d/artifacts
+end_time: 1729635521475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52c4fd8d08a94b92be6bf015e0d2082d
+run_name: run_4
+run_uuid: 52c4fd8d08a94b92be6bf015e0d2082d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729635505194
+status: 3
+tags: []
+user_id: victo
