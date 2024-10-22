@@ -70,6 +70,10 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 
   The project was developed to create reusable functions that assist in managing a fictional space logistics startup. Utilizing Python’s `datetime` module, the project focuses on crucial tasks such as timestamp formatting, rocket landing time estimation, and days-until-delivery calculations. These basic functions are essential for managing schedules and deadlines in an intergalactic scenario, offering a practical and educational application for handling dates and times in Python.
 
+- **Project 14: [Predicting Temperature in London](workspaces/predicting_temperature_in_london)**
+
+  This project focuses on building a machine learning pipeline to predict the mean temperature in London, England. By experimenting with various regression models and utilizing `sklearn` and `mlflow`, the project aims to identify the best approach for predicting weather patterns. The analysis involves exploring the `london_weather.csv` dataset and evaluating different weather factors to enhance prediction accuracy. Additionally, the use of `mlflow` enables tracking and optimization of model performance throughout the project.
+
 
 - **More Projects** `Coming Soon`
 
