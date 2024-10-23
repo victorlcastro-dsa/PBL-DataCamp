@@ -82,6 +82,10 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 
   This project leverages clustering techniques to analyze and categorize Antarctic penguin species based on physical measurements like beak size, flipper length, and body weight. By identifying patterns and distinct characteristics, the analysis aims to assist researchers in understanding the unique adaptations of each species. The findings can provide valuable insights into biodiversity and ecological strategies in extreme climates.
 
+- **Project 17: [Hypothesis Testing in Healthcare](workspaces/hypothesis_testing_in_healthcare)**
+
+  This project applies hypothesis testing to analyze the relationship between a new drug and five adverse effects: headache, abdominal pain, dyspepsia, upper respiratory infection, and chronic obstructive airway disease (COAD). The analysis focuses on identifying statistically significant differences in the proportion of patients experiencing each adverse effect between the drug and placebo groups. The study's findings can inform healthcare professionals about the potential risks associated with the drug and guide decision-making for treatment strategies.
+
 - **More Projects** `Coming Soon`
 
 ### ✨ Highlights
