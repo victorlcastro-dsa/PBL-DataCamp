@@ -78,6 +78,10 @@ Welcome to my repository showcasing projects completed through DataCamp's projec
 
   This project compares the performance of men's and women's soccer teams to test the null hypothesis that there is no difference in their performance. The analysis uses a dataset of World Cup matches to explore the distributions of goals scored, shots on goal, and possession percentage. The project applies hypothesis testing to evaluate the differences between male and female teams and provides insights into the results. The study's findings can be used to improve strategies for both men's and women's teams, as well as highlight areas of improvement for teams in both categories.
 
+- **Project 16: [Clustering Antarctic Penguin Species](workspaces/clustering_antartic_penguin_species)**
+
+  This project leverages clustering techniques to analyze and categorize Antarctic penguin species based on physical measurements like beak size, flipper length, and body weight. By identifying patterns and distinct characteristics, the analysis aims to assist researchers in understanding the unique adaptations of each species. The findings can provide valuable insights into biodiversity and ecological strategies in extreme climates.
+
 - **More Projects** `Coming Soon`
 
 ### ✨ Highlights
